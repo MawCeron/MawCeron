@@ -1,6 +1,6 @@
 # Mauricio (Maw) Cerón
 
-I build keyboard-driven terminal tools in Go: **lazyftp** moves files over FTP, FTPS and SFTP, and **justwrite** is an editor for prose.
+I build open-source tools in Go and Rust, from keyboard-driven terminal apps like **lazyftp** and **justwrite** to desktop apps and games. My web development work lives in private repositories.
 
 **Start here:** try [lazyftp](https://mawceron.github.io/lazyftp/) or [justwrite](https://mawceron.github.io/justwrite/). Each has a site with screenshots and install instructions.
 
@@ -8,9 +8,12 @@ I build keyboard-driven terminal tools in Go: **lazyftp** moves files over FTP, 
 
 - **[lazyftp](https://github.com/MawCeron/lazyftp)**: a dual-pane client for FTP, FTPS and SFTP that you drive entirely from the keyboard. Start here if you keep opening a GUI just to move files.
 - **[justwrite](https://github.com/MawCeron/justwrite)**: a terminal editor for prose, with a centered page and one status line. Start here if you want to write without toolbars or menus.
-- [squish](https://github.com/MawCeron/squish): a TUI dedicated to compressing and extracting archives. Not a file manager.
-- [pix2ansi](https://github.com/MawCeron/pix2ansi): converts images to ANSI escape code art for your terminal.
-- [transmute](https://github.com/MawCeron/transmute): a unit converter for the command line.
+
+## More
+
+- **Terminal:** [squish](https://github.com/MawCeron/squish) is a TUI dedicated to compressing and extracting archives, not a file manager. [pix2ansi](https://github.com/MawCeron/pix2ansi) converts images to ANSI escape code art. [transmute](https://github.com/MawCeron/transmute) is a unit converter for the command line.
+- **Desktop:** [Wassup](https://github.com/MawCeron/Wassup) is an unofficial, native WhatsApp client for GNOME, in early development and not installable yet. [csRenamer](https://github.com/MawCeron/csRenamer) is a Windows app for renaming files in batches.
+- **Games, in Go:** [generic-circus-game](https://github.com/MawCeron/generic-circus-game) rebuilds Circus Charlie (Famicom/NES, 1986) from its measured behavior. [dnrf](https://github.com/MawCeron/dnrf) is a top-down driving game in the spirit of Road Fighter, in early development.
 
 ## Status
 
