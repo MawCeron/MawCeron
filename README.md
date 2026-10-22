@@ -13,7 +13,7 @@ I build open-source tools in Go and Rust, from keyboard-driven terminal apps lik
 
 - **Terminal:** [squish](https://github.com/MawCeron/squish) is a TUI dedicated to compressing and extracting archives, not a file manager. [pix2ansi](https://github.com/MawCeron/pix2ansi) converts images to ANSI escape code art. [transmute](https://github.com/MawCeron/transmute) is a unit converter for the command line.
 - **Desktop:** [Wassup](https://github.com/MawCeron/Wassup) is an unofficial, native WhatsApp client for GNOME, in early development and not installable yet. [csRenamer](https://github.com/MawCeron/csRenamer) is a Windows app for renaming files in batches.
-- **Games, in Go:** [generic-circus-game](https://github.com/MawCeron/generic-circus-game) rebuilds Circus Charlie (Famicom/NES, 1986) from its measured behavior. [dnrf](https://github.com/MawCeron/dnrf) is a top-down driving game in the spirit of Road Fighter, in early development.
+- **Games, in Go:** [dnrf](https://github.com/MawCeron/dnrf) is a top-down driving game in the spirit of Road Fighter, in early development.
 
 ## Status
 
